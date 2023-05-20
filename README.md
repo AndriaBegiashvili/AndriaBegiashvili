@@ -1,4 +1,4 @@
-<h2 align="center">ANDR</h2>
+<h2 align="center">🤝</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
